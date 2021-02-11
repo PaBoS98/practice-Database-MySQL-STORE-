@@ -16,4 +16,4 @@ run the script in a workbench convenient for you.
 4. The folder `\practice-Database-MySQL-STORE-\ciklum_hybris_internship\src\test\java\com\service\dto`contains the rest of the tests `TestRequests`, open and replace the data in the fields `(url, username, password)` with your own.
 5. You can run all tests at once or separately (this does not affect the result).
 
-© Bohomaz Pavel | https://www.linkedin.com/in/pabos98/ |
+© Bohomaz Pavel | https://www.linkedin.com/in/pabos98/ | Spent working time approximately 54 hours
